@@ -7,6 +7,4 @@
 - ⚡ Fun fact: ...
 
 <!---
-sumit2238/sumit2238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+sumit2238/sumit2238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub
